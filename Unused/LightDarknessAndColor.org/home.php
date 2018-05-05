@@ -59,7 +59,6 @@ function MM_nbGroup(event, grpName) { //v6.0
 </script>
         <style type="text/css">
 <!--
-.style1 {font-size: 18px}
 .style2 {
 	font-size: 18pt;
 	font-weight: bold;
@@ -89,19 +88,19 @@ function MM_nbGroup(event, grpName) { //v6.0
                    <td colspan="6"><div align="center"><a href="http://www.lightdarknessandcolor.org/home.php"><img src="images/banner.jpg" alt="Light, Darkness &amp; Color" width="688" height="110" border="0"></a></div></td>
                  </tr>
                  <tr>
-                   <td><a href="/liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
+                   <td><a href="liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
+                   <td><a href="articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
+                   <td><a href="reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
+                   <td><a href="education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
+                   <td><a href="therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
+                   <td><a href="contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
                  </tr>
                  <tr>
                    <td colspan="6" class="body_text"><p>Welcome to <a href="http://www.lightdarknessandcolor.org/">www.lightdarknessandcolor.org</a>, a networking website created to further the artistic and therapeutic work of Liane Collot d&rsquo;Herbois. </p>
                      <p>Our goal is to help develop awareness of this extraordinary and innovative work and to provide information on opportunities for practice and further study. We will present educational articles related to the study of Light, Darkness and Color, as well as Painting Therapy, and are open to contributions from others. Our outreach efforts include the goal of working toward the creation of a school for the study of Light, Darkness and Color and Painting Therapy in the US and to foster connections to the medical and therapeutic communities. </p>
                      <table width="100%" border="0" cellspacing="0" cellpadding="8">
                        <tr>
-                         <td width="38%"><img src="http://www.lightdarknessandcolor.org/images/charcoal.png" alt="Charcoal" width="100%" height="0"></td>
+                         <td width="38%"><img src="http://www.lightdarknessandcolor.org/images/charcoal.png" alt="Charcoal" width="100%"></td>
                          <td colspan="2"><p align="center"><span class="style2">New Foundation Courses in<br>
 &nbsp;Light, Darkness and Color </span><br>
                            <span class="body_text">according to the work of Liane Collot d&rsquo;Herbois, <br>
@@ -129,7 +128,7 @@ function MM_nbGroup(event, grpName) { //v6.0
   <strong>Teacher:</strong> Pamela Whitman, 530-477-7794</p>
                            <p class="body_text"><strong>Spring Valley, New York</strong><br>
                            Information on possible courses here will be available soon.</p>
-                         <p class="body_text"><a href="education.php">Click here for more information about these classes. </a></p></td>
+                         <p class="body_text"><em>Details on courses and registration information will be available on this website as soon as arrangements have been finalized.  Please check back soon. </em></p></td>
                          <td width="42%"><img src="images/crystals.png" alt="Veil Painting" width="100%" align="top"></td>
                        </tr>
                      </table>

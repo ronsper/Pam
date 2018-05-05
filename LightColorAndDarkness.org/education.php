@@ -77,15 +77,15 @@ function MM_nbGroup(event, grpName) { //v6.0
              <tr>
                <td width=708 valign=top bordercolor="#000000" class="body_text"><table width="100%" border="0" align="center" cellpadding="10" cellspacing="0">
                  <tr>
-                   <td colspan="6"><div align="center"><a href="http://www.lightcoloranddarkness.org/home.php"><img src="images/banner.jpg" alt="Light, Darkness &amp; Color" width="688" height="110" border="0"></a></div></td>
+                   <td colspan="6"><div align="center"><a href="home.php"><img src="images/banner.jpg" alt="Light, Darkness &amp; Color" width="688" height="110" border="0"></a></div></td>
                  </tr>
                  <tr>
-                   <td><a href="/liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
+                   <td><a href="liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
+                   <td><a href="articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
+                   <td><a href="reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
+                   <td><a href="education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
+                   <td><a href="therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
+                   <td><a href="contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
                  </tr>
                  <tr>
                    <td colspan="6" class="body_text"><p style="text-align:center"><img width="417" height="67" src="images/lcdinnabanner.jpg"  hspace="12" vspace="12" alt="Light, Color and Darkness in North America "></p>
@@ -96,8 +96,8 @@ function MM_nbGroup(event, grpName) { //v6.0
                      <hr>
 <p><strong>New Courses:</strong></p>
 <p><a href="http://steinercollege.edu/veilpainting/" target="_blank"><img src="images/images/fair-oaks-veil-painting-class.jpg" alt="workshop" width="680" height="" class="image_frame_left" /></a></p>
-<p><a href="http://lightcoloranddarkness.org/pdf/Portland-VP-flier.pdf" target="_blank"><img src="images/images/Portland-VP-flier.jpg" alt="workshop" width="687" height="" class="image_frame_left" /></a></p>
-<p><a href="http://lightcoloranddarkness.org/pdf/BACWTT.pdf" target="_blank"><img src="images/images/BACWTT-Living-in-Color.jpg" alt="workshop" width="687" height="" class="image_frame_left" /></a></p>
+<p><a href="pdf/Portland-VP-flier.pdf" target="_blank"><img src="images/images/Portland-VP-flier.jpg" alt="workshop" width="687" height="" class="image_frame_left" /></a></p>
+<p><a href="pdf/BACWTT.pdf" target="_blank"><img src="images/images/BACWTT-Living-in-Color.jpg" alt="workshop" width="687" height="" class="image_frame_left" /></a></p>
 <p>The time for the evening presentation has been changed to 5:00 pm from 7:00 pm.</p>
                      <table width="100%" border="0">
                        <tr>
@@ -142,7 +142,7 @@ Pamela Whitman, M.A., is a graduate of M.I.T. and the Emerald Foundation in The 
 Courses are taught in English.<br>
                        Contact Pamela Whitman, Ph: 530-477-7794, E-mail: pamwhitman@yahoo.com<br>
                        Contact Marielle Levin, Ph: 303-698-0530, E-mail: mariellevin@comcast.net<br>
-                       <a href="http://www.lightcoloranddarkness.org">www.LightColorAndDarkness.org</a></p>
+                       <a href="index.html">www.LightColorAndDarkness.org</a></p>
                      <p><strong>Emerald Foundation (The Netherlands) </strong><br>
                        4- Year Certified Training in Collot d'Herbois Painting Therapy (2 sessions per year).
                        <br>
@@ -176,7 +176,7 @@ Italy
                        Phone: (39) 055 8547980<br>
                        Phone: (39) 333 6461387<br>
                      Email: cristina.bimbi@libero.it<br>
-                     <a href="www.lucecoloretenebra.it">www.lucecoloretenebra.it</a></p>
+                     <a href="http://www.lucecoloretenebra.it">www.lucecoloretenebra.it</a></p>
                      <p><strong>The Sienna Academy (Australia) </strong><br>
 4- Year  Training in Collot d'Herbois Painting Therapy <br>
 Courses are taught in English.<br>
@@ -193,7 +193,7 @@ Email: sallymartin@aanet.com.au<br>
                      <p><strong>Contact information regarding general classes in light, color &amp; darkness:</strong></p>
                    <p>California, Grass Valley:<br>
                      Pamela Whitman - pamwhitman@yahoo.com <br>
-                     Website: <a href="http://www.lightcoloranddarkness.org">www.lightcoloranddarkness.org</a></p>
+                     Website: <a href="index.html">www.lightcoloranddarkness.org</a></p>
                    <p>Hawaii, Maui:<br>
 Iris Sullivan -ameris@pacbell.net<br>
 Website: <a href="http://www.movingthesoulwithcolor.com">www.movingthesoulwithcolor.com</a>                   </p>
@@ -213,7 +213,7 @@ Website: <a href="http://www.movingthesoulwithcolor.com">www.movingthesoulwithco
                  </tr>
                </table>
                <?php
-				 include 'http://www.lightcoloranddarkness.org/footer.php';
+				 include 'footer.php';
 				 ?></td>
              </tr>
             </table>

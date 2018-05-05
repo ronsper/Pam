@@ -77,15 +77,15 @@ function MM_nbGroup(event, grpName) { //v6.0
              <tr>
                <td width=708 valign=top bordercolor="#000000" class="body_text"><table width="100%" border="0" align="center" cellpadding="10" cellspacing="0">
                  <tr>
-                   <td colspan="6"><div align="center"><a href="http://www.lightcoloranddarkness.org/home.php"><img src="images/banner.jpg" alt="Light, Darkness &amp; Color" width="688" height="110" border="0"></a></div></td>
+                   <td colspan="6"><div align="center"><a href="home.php"><img src="images/banner.jpg" alt="Light, Darkness &amp; Color" width="688" height="110" border="0"></a></div></td>
                  </tr>
                  <tr>
-                   <td><a href="/liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/painting-therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
-                   <td><a href="/contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
+                   <td><a href="liane.php" target="_top" onClick="MM_nbGroup('down','group1','lianne1','',1)" onMouseOver="MM_nbGroup('over','lianne1','images/lianne.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/lianne_1.jpg" alt="Lianne Collot d'Herbois" name="lianne1" width="98" height="55" border="0"></a></td>
+                   <td><a href="articles.php" target="_top" onClick="MM_nbGroup('down','group1','articles1','',1)" onMouseOver="MM_nbGroup('over','articles1','images/articles_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/articles_1.jpg" alt="Articles" name="articles1" width="98" height="55" border="0"></a></td>
+                   <td><a href="reflections.php" target="_top" onClick="MM_nbGroup('down','group1','reflections1','',1)" onMouseOver="MM_nbGroup('over','reflections1','images/reflections_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/reflections_1.jpg" alt="Personal Reflections" name="reflections1" width="98" height="55" border="0"></a></td>
+                   <td><a href="education.php" target="_top" onClick="MM_nbGroup('down','group1','education1','',1)" onMouseOver="MM_nbGroup('over','education1','images/education_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/education_1.jpg" name="education1" width="98" height="55" border="0"></a></td>
+                   <td><a href="painting-therapy.php" target="_top" onClick="MM_nbGroup('down','group1','therapy1','',1)" onMouseOver="MM_nbGroup('over','therapy1','images/therapy_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/therapy_1.jpg" alt="Painting Therapy" name="therapy1" width="98" height="55" border="0"></a></td>
+                   <td><a href="contact.php" target="_top" onClick="MM_nbGroup('down','group1','contact1','',1)" onMouseOver="MM_nbGroup('over','contact1','images/contact_2.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/contact_1.jpg" alt="Contact" name="contact1" width="98" height="55" border="0"></a></td>
                  </tr>
                  <tr>
                    <td colspan="6" class="body_text"><h1><strong>Articles on Collot d&rsquo;Herbois</strong> Painting Therapy </h1>
@@ -94,7 +94,7 @@ function MM_nbGroup(event, grpName) { //v6.0
                      <div><strong>Light, Color and Darkness Therapeutic Painting and Charcoal Drawing</strong></div>
                      <div></div>
                      <div dir="ltr">by Marielle Levin</div>
-                     <p><a href="/pdf/therapeutic-article.pdf">Download a PDF of the article by clicking here.</a></p>
+                     <p><a href="pdf/therapeutic-article.pdf">Download a PDF of the article by clicking here.</a></p>
                      <p>&nbsp;</p>
                      <p><em>The following article appears in the Fall 2007 issue of <strong>&ldquo;Lilipoh&rdquo; </strong>magazine:</em></p>
                      <h2><strong>A Celebration of Liane Collot d&rsquo;Herbois </strong></h2>
@@ -114,11 +114,11 @@ function MM_nbGroup(event, grpName) { //v6.0
                      <p>Iris Sullivan, Fair Oaks, CA: &ldquo;Liane could listen to one as if you really mattered. Her whole presence was worked through with loving sacrifice.&rdquo;</p>
                      <p><img src="images/images/liane2.jpg" alt="Liane" width="230" height="210" class="image_frame_left">Dorothea Pierce relates, &ldquo;As Frau Dr. Hauschka told me, &lsquo;Liane is a genius.&rsquo; And, as Rudolf Steiner pointed out more than once: Thousands had seen the old church lamp swinging, but it took Galileo&rsquo;s genius to observe and discover the laws of the pendulum for modern science.  Similarly, Collot&rsquo;s genius has discovered the laws of Light, Color and Darkness with careful observation and conscious thinking.&rdquo;</p>
                      <p>&ldquo;Whether it was a person, a painting, a flower, or a color, Collot could put herself aside and completely enter the other in knowing that other. She often said that in seeing color, &lsquo;there is no inner and outer.&rsquo; This can be a way of life if one is conscious enough, and strong enough, with everything one meets.&rdquo;</p>
-                   <p>For complete texts from these and other contributors, please click on the <a href="/reflections.php">Personal Reflections tab</a>. For information about workshops and schooling in Light, Color and Darkness and Painting Therapy, click on the <a href="/education.php">Education tab</a>.                   </p></td>
+                   <p>For complete texts from these and other contributors, please click on the <a href="reflections.php">Personal Reflections tab</a>. For information about workshops and schooling in Light, Color and Darkness and Painting Therapy, click on the <a href="education.php">Education tab</a>.                   </p></td>
                  </tr>
                </table>
                  <?php
-				 include 'http://www.lightcoloranddarkness.org/footer.php';
+				 include 'footer.php';
 				 ?>
 				 </td>
              </tr>
