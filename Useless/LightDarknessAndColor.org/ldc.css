@@ -1,0 +1,41 @@
+.body_text {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000000;
+	background-color: #FFFFFF;
+	background-position: left top;	
+}
+.body_text_sm {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-color: #FFFFFF;
+	background-position: left top;	
+}
+.border {
+	border: 1px solid #000000;
+}
+.copyright {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #403D3C;
+}
+.picture_border {
+	padding: 5px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+
+.text_box_yellow {
+	background-color: #FFCC99;
+	border: 1px solid #FF6666;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
