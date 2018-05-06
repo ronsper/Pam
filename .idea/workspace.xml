@@ -1,111 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7916f32f-ecf1-4aee-a98e-d70dfe8156bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/Marielle_class_flier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/Marielle_class_flier.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/education.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/education.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/foundation_3_flier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/foundation_3_flier.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/foundation_flier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/foundation_flier.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/images/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/images/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/images/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/liane.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/liane.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/lois_schroff_feb_2009_class.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/lois_schroff_feb_2009_class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/painting-therapy.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/painting-therapy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/reflections.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/reflections.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2009_fall_fairoaks.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2009_fall_fairoaks.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2009_fall_springvalley.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2009_fall_springvalley.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2009_spring_denver.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2009_spring_denver.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2009_spring_fairoaks.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2009_spring_fairoaks.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2009_spring_springvalley.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2009_spring_springvalley.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_12_denver.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_12_denver.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_12_ny.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_12_ny.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_9_fo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_9_fo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_spring_denver.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_spring_denver.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_spring_fo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_spring_fo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2010_spring_ny.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2010_spring_ny.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/2011.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/2011.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/CO-October.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/CO-October.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/CO-registration.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/CO-registration.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/Renewal2010.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/Renewal2010.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/registration/foundation_3_flier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/pdf/registration/foundation_3_flier.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightColorAndDarkness.org/therapy.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightColorAndDarkness.org/therapy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/FAQ.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/FAQ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/Templates/lightdarknessandcolor.dwt" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/Templates/lightdarknessandcolor.dwt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/background.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightDarknessAndColor.com/therapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/LightDarknessAndColor.com/therapy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/.htaccess.suspend.1383915100" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/.htaccess.suspend.1383915100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/400.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/400.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/401.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/401.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/403.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/403.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/404.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/404.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/500.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/500.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/500.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/500.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/400.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/400.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/401.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/401.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/403.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/403.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/404.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/404.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/500.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/500.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/500.shtml" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/500.shtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/Marielle_class_flier.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/Marielle_class_flier.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/education.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/education.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/error_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/google867d443a7166741b.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/google867d443a7166741b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/articles_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/articles_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/articles_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/articles_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/charcoal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/charcoal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/contact_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/contact_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/contact_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/contact_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/crystals.png" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/crystals.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/education_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/education_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/education_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/education_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/index.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/index.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/lianne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/lianne.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/lianne_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/lianne_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/lois_schroff_class.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/lois_schroff_class.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/reflections_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/reflections_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/reflections_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/reflections_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/therapy_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/therapy_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/therapy_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/therapy_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/underconstruction.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/underconstruction.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/images/underconstructionsliver.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/images/underconstructionsliver.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/ldc.css" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/ldc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/liane.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/liane.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/lightdarknessandcolororg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/lightdarknessandcolororg.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/lois_schroff_feb_2009_class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/lois_schroff_feb_2009_class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/painting-therapy.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/painting-therapy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/php.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/reflections.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/reflections.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/test2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/LightDarknessAndColor.org/therapy.php" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/LightDarknessAndColor.org/therapy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/php.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useless/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unused/test2.html" afterDir="false" />
-    </list>
+    <list default="true" id="7916f32f-ecf1-4aee-a98e-d70dfe8156bf" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +31,11 @@
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LightDarknessAndColor.com/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -181,7 +81,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
@@ -295,15 +195,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525497360768</updated>
-      <workItem from="1525497365872" duration="1020000" />
+      <workItem from="1525497365872" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1020000" />
+    <option name="totallyTimeSpent" value="1204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="878" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -353,7 +254,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LightDarknessAndColor.com/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
