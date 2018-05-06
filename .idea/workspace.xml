@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7916f32f-ecf1-4aee-a98e-d70dfe8156bf" name="Default" comment="" />
+    <list default="true" id="7916f32f-ecf1-4aee-a98e-d70dfe8156bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/images/images/StruggleGratitude-page1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf/StruggleGratitude.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.php" beforeDir="false" afterPath="$PROJECT_DIR$/education.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LightColorAndDarkness.org/index.html">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="187" column="36" selection-start-line="187" selection-start-column="36" selection-end-line="189" selection-end-column="96" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LightDarknessAndColor.com/index.html">
+      <file leaf-file-name="education_1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/education_1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="education.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/education.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="236">
+              <caret line="293" column="50" selection-start-line="293" selection-start-column="50" selection-end-line="293" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -50,8 +63,8 @@
       <find>http://www.lightcoloranddarkness.org</find>
       <find>http://lightcoloranddarkness.org/</find>
       <find>cristina.bimbi@libero.it</find>
-      <find>image</find>
       <find>href=&quot;/</find>
+      <find>image</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -69,6 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/LightColorAndDarkness.org/index.html" />
         <option value="$PROJECT_DIR$/LightDarknessAndColor.com/index.html" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/education.php" />
       </list>
     </option>
   </component>
@@ -81,8 +96,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-67" />
+    <option name="y" value="339" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
   </component>
@@ -104,12 +120,7 @@
             <path>
               <item name="Pam" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pam" type="462c0819:PsiDirectoryNode" />
-              <item name="LightColorAndDarkness.org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pam" type="462c0819:PsiDirectoryNode" />
-              <item name="LightDarknessAndColor.com" type="462c0819:PsiDirectoryNode" />
+              <item name="pdf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +137,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pdf" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/images" />
       <recent name="$PROJECT_DIR$/LightColorAndDarkness.org/pdf" />
     </key>
   </component>
@@ -195,15 +210,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525497360768</updated>
-      <workItem from="1525497365872" duration="1204000" />
+      <workItem from="1525497365872" duration="1726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1204000" />
+    <option name="totallyTimeSpent" value="1726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="1" />
+    <frame x="16" y="69" width="1440" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -219,10 +234,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="right" id="Database" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3290653" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -257,6 +272,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="187" column="36" selection-start-line="187" selection-start-column="36" selection-end-line="189" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/education_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="293" column="50" selection-start-line="293" selection-start-column="50" selection-end-line="293" selection-end-column="50" />
         </state>
       </provider>
     </entry>
